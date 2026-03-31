@@ -16,7 +16,7 @@ next:
   **Template:**
 </Callout>
 
-## Recent Releases
+## Recent Releasesf
 
 <Cards>
   <Card isNew kind="tile" title="v2.0 Migration" href="#" icon="fa-duotone fa-magnifying-glass">Everything you need to upgrade</Card>
