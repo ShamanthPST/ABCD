@@ -1,6 +1,8 @@
 ---
 title: Welcome to Marvetos
+excerpt: rctcy
 hidden: false
+icon: 😀
 next:
   description: |
     rxexertdt
