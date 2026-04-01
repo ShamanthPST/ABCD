@@ -3,6 +3,9 @@ title: Welcome to Marvetos
 excerpt: rctcy
 hidden: false
 icon: 😀
+metadata:
+  image: >-
+    https://files.readme.io/64e703cea0a567b6f75242853f9e3425975b9dc28acf5c4564522c931db81639-Icon.png
 next:
   description: |
     rxexertdt
