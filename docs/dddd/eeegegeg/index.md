@@ -14,6 +14,9 @@ next:
     - title: ddc
       type: link
       url: cddcd
+    - slug: getting-started
+      title: Welcome to Marvetos
+      type: basic
 ---
 eegeeg
 
