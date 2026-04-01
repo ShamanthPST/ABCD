@@ -6,6 +6,14 @@ hidden: false
 icon: 😀
 metadata:
   robots: index
+next:
+  description: |+
+    dcd
+
+  pages:
+    - title: ddc
+      type: link
+      url: cddcd
 ---
 eegeeg
 
