@@ -1,9 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "maple",
   "name": "Documentation",
   "colors": {
-    "primary": "#0D9373"
+    "primary": "#0063ff",
+    "light": "#8cd5ff",
+    "dark": "#0045ba"
   },
   "navigation": {
     "products": [
