@@ -60,6 +60,10 @@
       {
         "label": "dssf",
         "href": "/google.com"
+      },
+      {
+        "label": "Explore zunoy",
+        "href": "/zunoy.com"
       }
     ]
   },
@@ -68,5 +72,9 @@
   },
   "metadata": {
     "timestamp": true
+  },
+  "banner": {
+    "content": "dedefibefi",
+    "dismissible": true
   }
 }
