@@ -10,62 +10,60 @@
   "navigation": {
     "products": [
       {
-        "product": "My product",
-        "versions": [
+        "product": "Product 1",
+        "tabs": [
           {
-            "version": "Version 1",
-            "products": [
+            "tab": "ufyu",
+            "pages": [
               {
-                "product": "Product 1",
-                "tabs": [
+                "group": "Getting Started",
+                "pages": [
+                  "untitled-page"
+                ]
+              },
+              {
+                "group": "My groyup",
+                "pages": [
+                  "fbdffd"
+                ]
+              },
+              "ssdsvd",
+              {
+                "group": "Look this",
+                "pages": [
+                  "my-page"
+                ]
+              },
+              "untitled-page",
+              "untitled-page"
+            ]
+          },
+          {
+            "tab": "uyfu",
+            "anchors": [
+              {
+                "anchor": "8u",
+                "dropdowns": [
                   {
-                    "tab": "ufyu",
+                    "dropdown": "frfgrbgr",
                     "pages": [
-                      {
-                        "group": "Getting Started",
-                        "pages": [
-                          "untitled-page"
-                        ]
-                      },
-                      {
-                        "group": "My groyup",
-                        "pages": [
-                          "fbdffd"
-                        ]
-                      },
-                      "ssdsvd",
-                      {
-                        "group": "Look this",
-                        "pages": [
-                          "my-page"
-                        ]
-                      },
-                      "untitled-page",
-                      "untitled-page"
+                      "vfvf"
                     ]
                   },
                   {
-                    "tab": "uyfu",
-                    "anchors": [
-                      {
-                        "anchor": "8u",
-                        "dropdowns": [
-                          {
-                            "dropdown": "frfgrbgr",
-                            "pages": [
-                              "vfvf"
-                            ]
-                          },
-                          {
-                            "dropdown": "figig"
-                          }
-                        ]
-                      }
-                    ]
+                    "dropdown": "figig"
                   }
                 ]
               }
             ]
+          }
+        ]
+      },
+      {
+        "product": "My product",
+        "versions": [
+          {
+            "version": "Version 1"
           }
         ]
       }
