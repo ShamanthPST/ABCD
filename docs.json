@@ -6,26 +6,47 @@
     "primary": "#0D9373"
   },
   "navigation": {
-    "pages": [
+    "tabs": [
       {
-        "group": "Getting Started",
+        "tab": "ufyu",
         "pages": [
+          {
+            "group": "Getting Started",
+            "pages": [
+              "untitled-page"
+            ]
+          },
+          {
+            "group": "Untitled Group",
+            "pages": [
+              "fbdffd"
+            ]
+          },
+          "ssdsvd",
+          {
+            "group": "Untitled Group",
+            "pages": []
+          },
+          "untitled-page",
           "untitled-page"
         ]
       },
       {
-        "group": "Untitled Group",
-        "pages": [
-          "fbdffd"
+        "tab": "uyfu",
+        "anchors": [
+          {
+            "anchor": "8u",
+            "dropdowns": [
+              {
+                "dropdown": "frfgrbgr",
+                "pages": [
+                  "vfvf"
+                ]
+              }
+            ]
+          }
         ]
-      },
-      "ssdsvd",
-      {
-        "group": "Untitled Group",
-        "pages": []
-      },
-      "untitled-page",
-      "untitled-page"
+      }
     ]
   },
   "interaction": {
