@@ -17,9 +17,7 @@
             "pages": [
               {
                 "group": "Getting Started",
-                "pages": [
-                  "untitled-page"
-                ]
+                "pages": []
               },
               {
                 "group": "My groyup",
@@ -33,9 +31,7 @@
                 "pages": [
                   "my-page"
                 ]
-              },
-              "untitled-page",
-              "untitled-page"
+              }
             ]
           },
           {
