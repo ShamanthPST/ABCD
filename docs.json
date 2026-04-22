@@ -11,13 +11,18 @@
     "products": [
       {
         "product": "Product 1",
-        "tabs": [
+        "dropdowns": [
           {
-            "tab": "ufyu",
+            "dropdown": "ufyu",
             "pages": [
               {
                 "group": "Getting Started",
-                "pages": []
+                "pages": [
+                  {
+                    "group": "gfg",
+                    "pages": []
+                  }
+                ]
               },
               {
                 "group": "My groyup",
@@ -31,11 +36,15 @@
                 "pages": [
                   "my-page"
                 ]
+              },
+              {
+                "group": "Untitled Group",
+                "pages": []
               }
             ]
           },
           {
-            "tab": "uyfu",
+            "dropdown": "uyfu",
             "anchors": [
               {
                 "anchor": "8u",
@@ -96,5 +105,8 @@
   "banner": {
     "content": "dedefibefi",
     "dismissible": true
+  },
+  "styling": {
+    "latex": false
   }
 }
