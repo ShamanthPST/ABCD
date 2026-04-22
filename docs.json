@@ -6,47 +6,62 @@
     "primary": "#0D9373"
   },
   "navigation": {
-    "tabs": [
+    "products": [
       {
-        "tab": "ufyu",
-        "pages": [
+        "product": "My product",
+        "versions": [
           {
-            "group": "Getting Started",
-            "pages": [
-              "untitled-page"
-            ]
-          },
-          {
-            "group": "My groyup",
-            "pages": [
-              "fbdffd"
-            ]
-          },
-          "ssdsvd",
-          {
-            "group": "Look this",
-            "pages": [
-              "my-page"
-            ]
-          },
-          "untitled-page",
-          "untitled-page"
-        ]
-      },
-      {
-        "tab": "uyfu",
-        "anchors": [
-          {
-            "anchor": "8u",
-            "dropdowns": [
+            "version": "Version 1",
+            "products": [
               {
-                "dropdown": "frfgrbgr",
-                "pages": [
-                  "vfvf"
+                "product": "Product 1",
+                "tabs": [
+                  {
+                    "tab": "ufyu",
+                    "pages": [
+                      {
+                        "group": "Getting Started",
+                        "pages": [
+                          "untitled-page"
+                        ]
+                      },
+                      {
+                        "group": "My groyup",
+                        "pages": [
+                          "fbdffd"
+                        ]
+                      },
+                      "ssdsvd",
+                      {
+                        "group": "Look this",
+                        "pages": [
+                          "my-page"
+                        ]
+                      },
+                      "untitled-page",
+                      "untitled-page"
+                    ]
+                  },
+                  {
+                    "tab": "uyfu",
+                    "anchors": [
+                      {
+                        "anchor": "8u",
+                        "dropdowns": [
+                          {
+                            "dropdown": "frfgrbgr",
+                            "pages": [
+                              "vfvf"
+                            ]
+                          },
+                          {
+                            "dropdown": "figig"
+                          }
+                        ]
+                      }
+                    ]
+                  }
                 ]
-              },
-              {
-                "dropdown": "figig"
               }
             ]
           }
