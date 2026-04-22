@@ -17,15 +17,17 @@
             ]
           },
           {
-            "group": "Untitled Group",
+            "group": "My groyup",
             "pages": [
               "fbdffd"
             ]
           },
           "ssdsvd",
           {
-            "group": "Untitled Group",
-            "pages": []
+            "group": "Look this",
+            "pages": [
+              "my-page"
+            ]
           },
           "untitled-page",
           "untitled-page"
@@ -42,6 +44,9 @@
                 "pages": [
                   "vfvf"
                 ]
+              },
+              {
+                "dropdown": "figig"
               }
             ]
           }
